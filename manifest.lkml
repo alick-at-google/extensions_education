@@ -1,6 +1,6 @@
 application: ef_education_extension {
   label: "EF Education: AZ"
-  url: "http://localhost:8080/bundle.js"
+  file: "bundle.js"
   entitlements: {
     use_embeds: yes
     use_form_submit: yes
